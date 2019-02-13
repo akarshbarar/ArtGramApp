@@ -1,10 +1,10 @@
 # others
 
-A new Flutter project.
+ArtGram App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a clone of instagram app with fully functional frontend and backend.
 
 A few resources to get you started if this is your first Flutter project:
 
